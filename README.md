@@ -21,11 +21,10 @@
 ⚙️ Always learning, innovating, and optimizing — one feature at a time.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
+<p style="margin:4px 0; line-height:1.2;">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,7 +33,7 @@
 </p>
 
 ### 📱 Android & Architecture
-<p>
+<p style="margin:4px 0; line-height:1.2;">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM%20Architecture-FF6F61?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ViewModel-00B8D4?style=for-the-badge" />
@@ -47,7 +46,7 @@
 </p>
 
 ### ☁️ Cloud & Backend
-<p>
+<p style="margin:4px 0; line-height:1.2;">
   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -56,14 +55,14 @@
 </p>
 
 ### 🎨 UI/UX & Design
-<p>
+<p style="margin:4px 0; line-height:1.2;">
   <img src="https://img.shields.io/badge/Material3-6200EE?style=for-the-badge&logo=material-design&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
 
 ### ⚙️ Dev Tools
-<p>
+<p style="margin:4px 0; line-height:1.2;">
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -71,9 +70,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
 ---
-
 ## 🚀 Projects
 
 | 🧩 Project | 📘 Description | 🛠 Stack |
@@ -85,22 +82,35 @@
 | **ExpenseWise** 💰 | Personal finance tracker with category-wise stats | Kotlin, Room DB, Compose |
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkumar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=premkumar&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/premkumar" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-premkumar-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center" style="margin-top:8px;">
+  <a href="https://github.com/premkumar?tab=stars" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/premkumar?style=for-the-badge&logo=github&label=Stars&color=28a745&logoColor=white" />
+  </a>
+</p>
+
+<p align="center" style="margin-top:20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=premkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Prem Kumar's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=premkumar&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
+
 ## 📬 Connect With Me
 
 - 📧 **Email**: premkumar.dev@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/premkumar-dev](https://linkedin.com/in/premkumar-dev)  
-- 🌍 **Location**: India  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/premkumar07/)  
+- 🌍 **Location**: India
+- 🌐 **Portfolio**: https://v0-new-project-q8pnqc1nqao.vercel.app/ 
 - 🤝 *Open to exciting roles, freelance gigs, and meaningful collaborations!*
   
 > 🌟 *"Let’s build something that makes life easier, faster — and a little more awesome."*
